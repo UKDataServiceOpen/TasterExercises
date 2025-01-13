@@ -1,0 +1,59 @@
+---
+title: "Searching the data catalogue"
+Author: 
+  - Jen Buckley, University of Manchester, UK Data Service
+---
+
+In this activity, you will browse and search for data in the UK Data Service data catalogue. The aim of the activity is to get more familiar with the search tools available.
+
+> Either follow the steps for a topic of your choice or for the following example: "You are researching mental health and well-being with an interest in the impact of outdoor spaces such as gardens and parks."
+
+## Steps
+
+Start at the UK Data Service Homepage [ukdataservice.ac.uk](http://ukdataservice.ac.uk/).
+
+### Browse data
+
+Go to [Find data \> Browse data](https://ukdataservice.ac.uk/find-data/browse/).
+
+The theme pages highlight popular datasets relating to the theme. Do any of the themes relate to the topic you are searching for data on?   
+
+> Example: Health is a theme. Look at the list of popular datasets.  
+
+### Searching the data catalogue 
+
+The catalogue search box is accessible from the homepage or within [Find data](https://ukdataservice.ac.uk/find-data/).  
+
+Type a search term and press search. 
+
+The tool searches for the term in the title, description, and keywords. It does not search within the actual data, only how data has been described (metadata).    
+
+Relevant results will then be listed. You may get a lot of results (the data catalogue is large) or you may not get many relevant results. See below for things to try to improve your search.  
+
+### Filter and Sort 
+
+Filter (on the left) by date and data type (e.g. UK Survey data).  
+
+Sort by the most recent or most relevant.   
+
+### Series  
+
+Ongoing surveys are called a series and you can select the series tab to list by Series e.g. **Health survey for England**.
+
+### Search terms  
+
+You usually need to try different search terms. It is important to think about how relevant data might be indexed, for example:
+
+-   are your search terms too specific? Data is more likely to be indexed by broader (well-established) terms such as 'depression' or 'well-being' than specific sub-terms such as 'low mood.' 
+
+-   are your search terms too general, for example, searching using the broader term health will bring up a wider range of data than a search of mental health or depression.
+
+-   what alternative terms might be used to index data e.g. wellbeing, mental health, depression – try as many as you can.
+
+It’s better to try a few things then to miss something useful.  
+
+When you start typing a search term, you will get suggested terms and keywords (see image below). Keywords are used to index data.
+
+You can use Boolean operators for more complex searches such as Health AND Housing.  
+
+Once you have found and interesting study click the result to access the catalogue record.  

@@ -50,7 +50,7 @@ You usually need to try different search terms. It is important to think about 
 
 -   what alternative terms might be used to index data e.g. wellbeing, mental health, depression – try as many as you can.
 
-It’s better to try a few things then to miss something useful.  
+It’s better to try a few things than to miss something useful.  
 
 When you start typing a search term, you will get suggested terms and keywords (see image below). Keywords are used to index data.
 

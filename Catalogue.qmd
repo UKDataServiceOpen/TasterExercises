@@ -6,7 +6,11 @@ Author:
 
 In this activity, you will browse and search for data in the UK Data Service data catalogue. The aim of the activity is to get more familiar with the search tools available.
 
-> Either follow the steps for a topic of your choice or for the following example: "You are researching mental health and well-being with an interest in the impact of outdoor spaces such as gardens and parks."
+Either follow the steps for a topic of your choice or for the following example:
+
+> "You are researching mental health and well-being with an interest in the impact of outdoor spaces such as gardens and parks."
+
+![](images/clipboard-2014153398.png){width="476"}
 
 ## Steps
 
@@ -16,7 +20,11 @@ Start at the UK Data Service Homepage [ukdataservice.ac.uk](http://ukdataservice
 
 Go to [Find data \> Browse data](https://ukdataservice.ac.uk/find-data/browse/).
 
-The theme pages highlight popular datasets relating to the theme. Do any of the themes relate to the topic you are searching for data on?   
+The theme pages highlight popular datasets relating to the theme.
+
+![](images/clipboard-2620975144.png)
+
+Do any of the themes relate to the topic you are searching for data on?   
 
 > Example: Health is a theme. Look at the list of popular datasets.  
 
@@ -25,6 +33,8 @@ The theme pages highlight popular datasets relating to the theme. Do any of the 
 The catalogue search box is accessible from the homepage or within [Find data](https://ukdataservice.ac.uk/find-data/).  
 
 Type a search term and press search. 
+
+![](images/clipboard-1606502392.png)
 
 The tool searches for the term in the title, description, and keywords. It does not search within the actual data, only how data has been described (metadata).    
 
@@ -40,6 +50,8 @@ Sort by the most recent or most relevant.   
 
 Ongoing surveys are called a series and you can select the series tab to list by Series e.g. **Health survey for England**.
 
+![](images/clipboard-268813136.png)
+
 ### Search terms  
 
 You usually need to try different search terms. It is important to think about how relevant data might be indexed, for example:
@@ -53,6 +65,8 @@ You usually need to try different search terms. It is important to think about 
 It’s better to try a few things than to miss something useful.  
 
 When you start typing a search term, you will get suggested terms and keywords (see image below). Keywords are used to index data.
+
+![](images/clipboard-83794459.png)
 
 You can use Boolean operators for more complex searches such as Health AND Housing.  
 

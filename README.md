@@ -2,4 +2,4 @@ Taster exercises to help you get familar with UK Data Service data and search to
 
 * [Nesstar for survey data](https://ukdataserviceopen.github.io/TasterExercises/Nesstar_exercise).
 * [Census map](https://ukdataserviceopen.github.io/TasterExercises/Census_exercise). 
-* [Search catalogue](https://ukdataserviceopen.github.io/TasterExercises/Catalogue).
+* [Searching the catalogue](https://ukdataserviceopen.github.io/TasterExercises/Catalogue).

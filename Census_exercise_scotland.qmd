@@ -4,7 +4,7 @@ title: "2: Explore Scottish Census data (using an interactive map)."
 
 > What percentage of households do not have a car and how does it vary across the country?
 
-In this activity, you will use an interactive map created by the ONS using data from the 2021 UK Census data. The aim of the activity is to get familiar with census data and how it can be visualised geographically.
+In this activity, you will use an interactive map created by the ONS using data from the 2022 Scottish Census data. The aim of the activity is to get familiar with census data and how it can be visualised geographically.
 
 ## Task
 

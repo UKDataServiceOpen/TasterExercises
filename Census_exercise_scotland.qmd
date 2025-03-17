@@ -10,16 +10,16 @@ In this activity, you will use an interactive map created by the ONS using data 
 
 The map below shows data from the census about Cars or Vans owned or available for use by a household.
 
--   In Nottingham, what percentage of households have no car or van?
+-   In the City of Edinburgh, what percentage of households have no car or van?
 
--   How does it vary across the city?
+-   How does it vary across the city? You can zoom in to explore this.
 
--   Press the - on the map to zoom out, how does it vary across countries.
+-   Press the - on the map to zoom out, how does it vary across local authority areas?
 
-The map shows how census data can be aggregated and visualised at different geographical levels. In what created by the ONS as a tool for exploring data.
+The map shows how census data can be aggregated and visualised at different geographical levels. It was created by the ONS as a tool for exploring data.
 
--   Visit [Census Maps](https://www.ons.gov.uk/census/maps/) to explore other data from the census.
+-   Visit [Census maps](https://www.scotlandscensus.gov.uk/atlas/choropleth) to explore other data from the census.
 
--   You access the [underlying data from the UK Data Service](https://statistics.ukdataservice.ac.uk/dataset/england-and-wales-census-2021-ts045-car-or-van-availability).
+-   The underlying data for this map is not yet available for Scotland, however you can access the equivalent [England and Wales census data from the UK Data Service](https://statistics.ukdataservice.ac.uk/dataset/england-and-wales-census-2021-ts045-car-or-van-availability).
 
-<iframe height="600px" width="100%" title="ONS Census Maps" frameborder="0" src="https://www.ons.gov.uk/census/maps/choropleth/housing/number-of-cars-or-vans/number-of-cars-5a/no-cars-or-vans-in-household?lad=E06000018&embed=true&embedInteractive=true&embedAreaSearch=false&embedCategorySelection=false&embedView=geography" />
+<iframe height="700px" width="100%" title="Scotland Census Maps" frameborder="0" src="https://www.scotlandscensus.gov.uk/atlas/choropleth/households/car-or-van-availability/cars-vans-cat-h/number-of-cars-or-vans-in-household-no-cars-or-vans?lad=S12000036" />
